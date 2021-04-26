@@ -4,5 +4,5 @@ window.addEventListener('keydown', function(e){
     // stop the function from running all together
     if(!audio) return;
     audio.currentTime = 0;
-    audio.play();
+    audio.play();;
 })
