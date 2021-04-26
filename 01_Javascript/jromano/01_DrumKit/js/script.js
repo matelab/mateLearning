@@ -19,4 +19,4 @@ const keys = document.querySelectorAll('.key');
 keys.forEach(key => key.addEventListener('transitionend', removeTransition));
 
 // Event listening to the index window
-window.addEventListener('keydown', playSound);
+window.addEventListener('keydown', playSound)
