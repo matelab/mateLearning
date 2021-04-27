@@ -33,27 +33,45 @@ https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwK
 
 ### 1. Beginner
 
+Free Code Camp - React in 10 hours
+
 https://www.youtube.com/watch?v=4UZrsTqkcW4
+
+Free Code Camp - 15 React projects
 
 https://www.youtube.com/watch?v=a_7Z7C_JCyo
 
 ### 2. Intermediate
 
+Full Stack React & Firebase Tutorial - Build a social media app
+
 https://www.youtube.com/watch?v=m_u6P5k0vP0
+
+React / GraphQL Course - Build a social media app (MERNG Stack)
 
 https://www.youtube.com/watch?v=n1mdAPFq2Os
 
 ### 3. Advanced
 
+Create an Instagram Clone with React, Tailwind CSS, Firebase - Tutorial
+
 https://www.youtube.com/watch?v=mDgEqoQUBgk
+
+Fullstack React GraphQL TypeScript Tutorial
 
 https://www.youtube.com/watch?v=I6ypD7qv3Z8
 
 ## Python
 
-https://www.youtube.com/watch?v=n1mdAPFq2Os
+Aprende Python - Curso completo para priincipiantes
+
+https://www.youtube.com/watch?v=rfscVS0vtbw
+
+12 Beginner Python Projects - Coding Course
 
 https://www.youtube.com/watch?v=8ext9G7xspg
+
+Intermediate Python Programming Course
 
 https://www.youtube.com/watch?v=HGOBQPFzWKo
 
