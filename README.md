@@ -39,11 +39,27 @@ https://www.youtube.com/watch?v=mDgEqoQUBgk
 
 https://www.youtube.com/watch?v=I6ypD7qv3Z8
 
-## Python learning resources
+## Python
+
+https://www.youtube.com/watch?v=n1mdAPFq2Os
+
+https://www.youtube.com/watch?v=8ext9G7xspg
+
+https://www.youtube.com/watch?v=HGOBQPFzWKo
 
 ## Flask
 
+https://www.youtube.com/watch?v=s6IF9ZVohz8&list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk
+
+https://www.youtube.com/watch?v=Qr4QMBUPxWo
+
 ## Django
+
+https://www.youtube.com/watch?v=F5mRW0jo-U4
+
+https://www.youtube.com/watch?v=qPtScmB8CgA
+
+https://www.youtube.com/watch?v=YZvRrldjf1Y
 
 ---
 
