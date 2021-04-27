@@ -61,6 +61,10 @@ https://www.youtube.com/watch?v=qPtScmB8CgA
 
 https://www.youtube.com/watch?v=YZvRrldjf1Y
 
+### Optional Django + VueJS
+
+https://www.youtube.com/watch?v=Yg5zkd9nm6w
+
 ---
 
 ## Apuntes iniciales de distintas tecnologías (en español)
