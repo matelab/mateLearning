@@ -7,15 +7,25 @@ We're going to save here, every challenge that we do in our learning paths to gr
 
 ## Javascript
 
+30 projects in 30 days with Vainilla JS
+
 https://javascript30.com/
 
-## Typescript 
+## Typescript
+
+Curso completo de Typescript
 
 https://www.youtube.com/watch?v=Xxqh0RoWxNc
 
+TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!
+
 https://www.youtube.com/watch?v=BwuLxPH8IDs
 
+TypeScript - Guía completa y manual de mano
+
 https://www.youtube.com/watch?v=FufR-Vailzk&list=PLCKuOXG0bPi2J-C0WPRZdHTG6pareIvV2
+
+Typescript tutorial
 
 https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
 
