@@ -82,6 +82,8 @@ Curso de Flask - Codigo Facilito
 
 https://www.youtube.com/watch?v=s6IF9ZVohz8&list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk
 
+Flask Course - Python Web Application Development
+
 https://www.youtube.com/watch?v=Qr4QMBUPxWo
 
 ## Django
