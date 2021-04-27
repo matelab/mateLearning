@@ -88,13 +88,21 @@ https://www.youtube.com/watch?v=Qr4QMBUPxWo
 
 ## Django
 
+Python Django Web Framework - Full Course for Beginners
+
 https://www.youtube.com/watch?v=F5mRW0jo-U4
 
+Build Three Django Projects - Python Course
+
 https://www.youtube.com/watch?v=qPtScmB8CgA
+
+How to Build an E-commerce Website with Django and Python
 
 https://www.youtube.com/watch?v=YZvRrldjf1Y
 
 ### Optional Django + VueJS
+
+E-commerce Website With Django and Vue Tutorial (Django Rest Framework)
 
 https://www.youtube.com/watch?v=Yg5zkd9nm6w
 
