@@ -13,7 +13,7 @@ function setDate() {
       const hours = now.getHours();
 
       // reloj digital
-      secondDig.textContent = seconds;
+      secondDig.textContent = (seconds < 10) ? "0" + seconds : seconds;
       minutesDig.textContent = minutes + " :";
       hoursDig.textContent = hours + " :";
 
