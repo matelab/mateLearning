@@ -6,13 +6,13 @@ We're going to save here, every challenge that we do in our learning paths to gr
 
 # Learning resources
 
-## Javascript
+## 01_Javascript
 
 30 projects in 30 days with Vainilla JS
 
 https://javascript30.com/
 
-## Typescript
+## 02_Typescript
 
 Curso completo de Typescript
 
@@ -30,7 +30,7 @@ Typescript tutorial
 
 https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
 
-## React
+## 03_React
 
 ### 1. Beginner
 
@@ -62,7 +62,7 @@ Fullstack React GraphQL TypeScript Tutorial
 
 https://www.youtube.com/watch?v=I6ypD7qv3Z8
 
-## Python
+## 04_Python
 
 Aprende Python - Curso completo para priincipiantes
 
@@ -76,7 +76,7 @@ Intermediate Python Programming Course
 
 https://www.youtube.com/watch?v=HGOBQPFzWKo
 
-## Flask
+## 05_Flask
 
 Curso de Flask - Codigo Facilito
 
@@ -86,7 +86,7 @@ Flask Course - Python Web Application Development
 
 https://www.youtube.com/watch?v=Qr4QMBUPxWo
 
-## Django
+## 06_Django
 
 Python Django Web Framework - Full Course for Beginners
 
@@ -100,7 +100,7 @@ How to Build an E-commerce Website with Django and Python
 
 https://www.youtube.com/watch?v=YZvRrldjf1Y
 
-### Optional Django + VueJS
+### 06.1_Optional Django + VueJS
 
 E-commerce Website With Django and Vue Tutorial (Django Rest Framework)
 
