@@ -27,8 +27,9 @@ print(friends.index("Jim"))
 # Count values in a list
 print(friends.count("Jim"))
 
-# Sort the list
-print(friends.sort())
+# Copy the list
+friends2 = friends.copy()
+print(friends2)
 
 # Remove
 friends.remove("Jim")
