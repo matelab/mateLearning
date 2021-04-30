@@ -12,3 +12,11 @@ print(friends[1:3])
 # Extend
 friends.extend(lucky_numbers)
 print(friends)
+
+# Append
+friends.append("Creed")
+print(friends)
+
+# Insert
+friends.insert(1, "Kelly")
+print(friends)
