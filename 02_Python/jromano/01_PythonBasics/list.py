@@ -8,3 +8,7 @@ print(friends[0])
 
 # Many elements
 print(friends[1:3])
+
+# Extend
+friends.extend(lucky_numbers)
+print(friends)
