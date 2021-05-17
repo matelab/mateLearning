@@ -62,7 +62,13 @@ Fullstack React GraphQL TypeScript Tutorial
 
 https://www.youtube.com/watch?v=I6ypD7qv3Z8
 
-## 04_Python
+### 04_Python
+
+Referencias 
+
+https://ellibrodepython.com/
+
+https://www.w3schools.com/python/
 
 Aprende Python - Curso completo para priincipiantes
 
