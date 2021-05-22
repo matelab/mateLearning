@@ -1,4 +1,4 @@
-employee_file = open("./02_Python/acaminos/26_ReadingFiles.txt", "r")
+employee_file = open("./02_Python/acaminos/Excercise26/26_ReadingFiles.txt", "r")
 
 #r (read) only read - No se modifica
 #w (write) se puede escribir, modificar, editar informacion, crear. Borra contenido anterior y sobreescribe
