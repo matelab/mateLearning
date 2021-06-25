@@ -40,3 +40,18 @@ video {
   color: white;
   height: 16.3%;
 }
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background: linear-gradient(-170deg, #2376ae 0%, #c16ecf 100%);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 3em;
+  height: 3em;
+  margin: 1em auto;
+}

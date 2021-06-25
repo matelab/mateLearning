@@ -48,7 +48,7 @@ body {
   padding: 2rem;
 }
 
-.timer__button {
+.timer__button, #timeFormatToggle {
   background: none;
   border: 0;
   cursor: pointer;
@@ -79,4 +79,28 @@ body {
 .display__end-time {
   font-size: 4rem;
   color: white;
+}
+
+label {
+  color: white;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+#timeFormatToggle {
+  border-radius: 50%;
+  background-color: white;
+  width: 3em;
+  height: 3em;
+  text-align: center;
+  padding: 0;
+  line-height: 2em;
+  color: #0d47a1;
+  font-weight: 800;
+  position: relative;
+  transition-duration: .3s;
+}
+
+#timeFormatToggle:hover {
+  transform: scale(1.1);
 }
